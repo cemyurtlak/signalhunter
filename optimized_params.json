@@ -1,0 +1,1186 @@
+{
+  "PIVXUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 19.016968970097185,
+        "last_updated": "2024-11-20 15:05:13"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 90.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 53.21460065147498,
+        "last_updated": "2024-11-20 15:05:13"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 4.0,
+        "fib_sell": 65.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 50.93733139316253,
+        "last_updated": "2024-11-20 15:05:13"
+      }
+    }
+  },
+  "UTKUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 35.03386485744735,
+        "last_updated": "2024-11-20 19:21:24"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 7.0,
+        "fib_sell": 75.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 28.236312941382803,
+        "last_updated": "2024-11-20 19:21:24"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 4.0,
+        "fib_sell": 65.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 34.987728388328335,
+        "last_updated": "2024-11-20 19:21:24"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 1.0,
+        "fib_sell": 80.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 54.87122060470324,
+        "last_updated": "2024-11-20 19:21:24"
+      }
+    }
+  },
+  "VIBUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -80.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 36.05478956809648,
+        "last_updated": "2024-11-21 07:58:54"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 66.0,
+        "fib_buy": 7.0,
+        "fib_sell": 80.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 62.84375398021084,
+        "last_updated": "2024-11-21 07:58:54"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 40.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 10.0,
+        "fib_sell": 80.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 122.83105022831052,
+        "last_updated": "2024-11-21 07:58:54"
+      }
+    }
+  },
+  "FLOKIUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 39.09783902874381,
+        "last_updated": "2024-11-21 08:38:57"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 10.0,
+        "fib_sell": 90.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 70.79558557074618,
+        "last_updated": "2024-11-21 08:38:57"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 95.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 921.5289681179293,
+        "last_updated": "2024-11-21 08:38:57"
+      }
+    }
+  },
+  "FLUXUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 40.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 1.0,
+        "fib_sell": 75.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 44.066150473928374,
+        "last_updated": "2024-11-21 09:22:10"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 10.0,
+        "fib_sell": 80.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 19.340617212957632,
+        "last_updated": "2024-11-21 09:22:10"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 28.213722397476342,
+        "last_updated": "2024-11-21 09:22:10"
+      }
+    }
+  },
+  "LITUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 21.647834815027224,
+        "last_updated": "2024-11-21 09:22:28"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 50.835140362187204,
+        "last_updated": "2024-11-21 09:22:28"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 63.0,
+        "fib_buy": 1.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 9.84848484848484,
+        "last_updated": "2024-11-21 09:22:28"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 40.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 7.0,
+        "fib_sell": 90.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 170.75630252100842,
+        "last_updated": "2024-11-21 09:22:28"
+      }
+    }
+  },
+  "BTCUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 33.42841815828708,
+        "last_updated": "2024-11-21 09:23:55"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 55.38644859370777,
+        "last_updated": "2024-11-21 09:23:55"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 322.2190110324778,
+        "last_updated": "2024-11-21 09:23:55"
+      }
+    }
+  },
+  "ETHUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 19.0,
+        "rsi_sell": 84.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 15.230998868478713,
+        "last_updated": "2024-11-21 09:24:21"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 36.53664967593117,
+        "last_updated": "2024-11-21 09:24:21"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 25.388726286859743,
+        "last_updated": "2024-11-21 09:24:21"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 243.67451463408148,
+        "last_updated": "2024-11-21 09:24:21"
+      }
+    }
+  },
+  "SHIBUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 33.40592402002572,
+        "last_updated": "2024-11-21 09:30:31"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 84.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 57.19489981785064,
+        "last_updated": "2024-11-21 09:30:31"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 1.0,
+        "fib_sell": 90.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 90.6356801093643,
+        "last_updated": "2024-11-21 09:30:31"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -80.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 392.6536731634184,
+        "last_updated": "2024-11-21 09:30:31"
+      }
+    }
+  },
+  "XRPUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 127.79473483403281,
+        "last_updated": "2024-11-21 13:37:38"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 1.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 128.6622976098689,
+        "last_updated": "2024-11-21 13:37:38"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 90.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 158.84526558891454,
+        "last_updated": "2024-11-21 13:37:38"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 7.0,
+        "fib_sell": 75.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 171.01002313030068,
+        "last_updated": "2024-11-21 13:37:38"
+      }
+    }
+  },
+  "MEMEUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 1.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 24.416342412451364,
+        "last_updated": "2024-11-22 02:50:36"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 78.98799277754718,
+        "last_updated": "2024-11-22 02:50:36"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 85.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 62.15921483097057,
+        "last_updated": "2024-11-22 02:50:36"
+      }
+    }
+  },
+  "SOLUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 50.89478798626094,
+        "last_updated": "2024-11-22 03:23:25"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 62.91870985460111,
+        "last_updated": "2024-11-22 03:23:25"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 84.0,
+        "fib_buy": 1.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 1431.4871016691957,
+        "last_updated": "2024-11-22 03:23:25"
+      }
+    }
+  },
+  "BNBUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 1.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 14.199788566087218,
+        "last_updated": "2024-11-22 03:23:32"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 66.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 22.140729972568536,
+        "last_updated": "2024-11-22 03:23:32"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 1.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 28.457643622200585,
+        "last_updated": "2024-11-22 03:23:32"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 145.88563458856345,
+        "last_updated": "2024-11-22 03:23:32"
+      }
+    }
+  },
+  "IQUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 25.134059851236817,
+        "last_updated": "2024-11-22 13:59:53"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 7.0,
+        "fib_sell": 65.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 19.308462238398548,
+        "last_updated": "2024-11-22 13:59:53"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 62.611218568665365,
+        "last_updated": "2024-11-22 13:59:53"
+      }
+    }
+  },
+  "PROSUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 148.2648633426366,
+        "last_updated": "2024-11-22 22:07:07"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 7.0,
+        "fib_sell": 70.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 133.57257924446833,
+        "last_updated": "2024-11-22 22:07:07"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 70.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 209.48683322079674,
+        "last_updated": "2024-11-22 22:07:07"
+      }
+    }
+  },
+  "LQTYUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 40.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -75.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 56.02786683388413,
+        "last_updated": "2024-11-22 22:23:46"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 95.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 39.64973270294488,
+        "last_updated": "2024-11-22 22:23:46"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 70.32258064516131,
+        "last_updated": "2024-11-22 22:23:46"
+      }
+    }
+  },
+  "ALPACAUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 4.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 77.2765246449457,
+        "last_updated": "2024-11-22 22:44:26"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 10.0,
+        "fib_sell": 65.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 83.18219291014015,
+        "last_updated": "2024-11-22 22:44:26"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 87.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 137.9966887417218,
+        "last_updated": "2024-11-22 22:44:26"
+      }
+    }
+  },
+  "WANUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 15.826911677534087,
+        "last_updated": "2024-11-22 22:50:48"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 27.96879092253807,
+        "last_updated": "2024-11-22 22:50:48"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 66.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 47.009608888221614,
+        "last_updated": "2024-11-22 22:50:48"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 69.0,
+        "fib_buy": 1.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 180.39914468995008,
+        "last_updated": "2024-11-22 22:50:48"
+      }
+    }
+  },
+  "FIROUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 22.0,
+        "rsi_sell": 84.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 44.08310749774164,
+        "last_updated": "2024-11-23 11:23:44"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 4.0,
+        "fib_sell": 70.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 26.157642805463173,
+        "last_updated": "2024-11-23 11:23:44"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 1.0,
+        "fib_sell": 80.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 19.489981785063748,
+        "last_updated": "2024-11-23 11:23:44"
+      }
+    }
+  },
+  "HOTUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 31.0,
+        "rsi_sell": 66.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 46.98673878390793,
+        "last_updated": "2024-11-23 12:43:34"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 7.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 59.69797543976102,
+        "last_updated": "2024-11-23 12:43:34"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 1.0,
+        "fib_sell": 85.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 39.59183673469388,
+        "last_updated": "2024-11-23 12:43:34"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 75.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 156.3528637261356,
+        "last_updated": "2024-11-23 12:43:34"
+      }
+    }
+  },
+  "KEYUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 28.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 21.368989791257665,
+        "last_updated": "2024-11-23 17:51:18"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 10.0,
+        "fib_sell": 60.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 41.08151931109867,
+        "last_updated": "2024-11-23 17:51:18"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 72.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 164.8720032507111,
+        "last_updated": "2024-11-23 17:51:18"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 4.0,
+        "fib_sell": 65.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 308.67009551800146,
+        "last_updated": "2024-11-23 17:51:18"
+      }
+    }
+  },
+  "AVAXUSDT": {
+    "1h": {
+      "parameters": {
+        "rsi_buy": 25.0,
+        "rsi_sell": 81.0,
+        "fib_buy": 1.0,
+        "fib_sell": 95.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 88.97155361050328,
+        "last_updated": "2024-11-24 11:35:51"
+      }
+    },
+    "4h": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 78.0,
+        "fib_buy": 4.0,
+        "fib_sell": 60.0,
+        "williams_buy": -95.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 39.8654544596953,
+        "last_updated": "2024-11-24 11:35:51"
+      }
+    },
+    "1d": {
+      "parameters": {
+        "rsi_buy": 34.0,
+        "rsi_sell": 60.0,
+        "fib_buy": 7.0,
+        "fib_sell": 95.0,
+        "williams_buy": -90.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 100.39799000967233,
+        "last_updated": "2024-11-24 11:35:51"
+      }
+    },
+    "1w": {
+      "parameters": {
+        "rsi_buy": 37.0,
+        "rsi_sell": 84.0,
+        "fib_buy": 7.0,
+        "fib_sell": 90.0,
+        "williams_buy": -85.0,
+        "bb_mult": 2.0
+      },
+      "performance": {
+        "success_rate": 100.0,
+        "total_return": 320.45855379188714,
+        "last_updated": "2024-11-24 11:35:51"
+      }
+    }
+  }
+}
