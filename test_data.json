@@ -1,0 +1,8 @@
+{
+  "test_coin": {
+    "parameters": {
+      "rsi_buy": 30,
+      "rsi_sell": 70
+    }
+  }
+}
