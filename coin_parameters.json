@@ -1,0 +1,13 @@
+{
+  "BTCUSDT_1h": {
+    "rsi_buy": 30,
+    "rsi_sell": 70,
+    "fib_buy": 3,
+    "fib_sell": 74,
+    "williams_buy": -95,
+    "bb_mult": 2.0,
+    "success_rate": 0,
+    "total_return": 0,
+    "last_updated": "2024-01-01T00:00:00"
+  }
+}
