@@ -3,6 +3,7 @@
   "FLUXUSDT",
   "UTKUSDT",
   "VIBUSDT",
+  "BNXUSDT",
   "LITUSDT",
   "PIVXUSDT",
   "THETAUSDT",
@@ -27,6 +28,7 @@
   "ARKMUSDT",
   "OPUSDT",
   "AAVEUSDT",
+  "IOUSDT",
   "XLMUSDT",
   "INJUSDT",
   "VITEUSDT",
@@ -36,7 +38,5 @@
   "VICUSDT",
   "ACEUSDT",
   "BTCUSDT",
-  "BNXUSDT",
-  "IOUSDT",
   "IQUSDT"
 ]
