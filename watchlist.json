@@ -18,7 +18,6 @@
   "BNBUSDT",
   "NOTUSDT",
   "XRPUSDT",
-  "FTMUSDT",
   "TONUSDT",
   "FILUSDT",
   "TIAUSDT",
@@ -36,5 +35,6 @@
   "FIROUSDT",
   "VICUSDT",
   "ACEUSDT",
-  "BTCUSDT"
+  "BTCUSDT",
+  "FLUXUSDT"
 ]
